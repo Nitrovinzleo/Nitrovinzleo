@@ -4,14 +4,6 @@
 
 <br />
 
-### À propos
-
-Étudiant en 3e année de **Bachelor Ingénierie et Numérique** à l'**EFREI Paris** (mobilité internationale à Toronto — Anglais **C1**) et **développeur Fullstack en alternance chez France SCPI**.
-
-Après deux expériences chez **M6 Groupe** (API REST FastAPI, fonctions AWS Lambda, mise aux normes accessibilité RGAA), je développe au quotidien avec des workflows **AI-native** (*Claude Code*, agents, skills et règles de sécurité).
-
----
-
 ### Expériences professionnelles
 
 - **Développeur Fullstack (Alternance) — France SCPI** *(En cours)*
