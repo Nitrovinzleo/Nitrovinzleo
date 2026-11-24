@@ -23,34 +23,6 @@ Après deux expériences chez **M6 Groupe** (API REST FastAPI, fonctions AWS Lam
 
 ---
 
-### Sélection de projets
-
-| No. | Projet | Stack | Description |
-| :--- | :--- | :--- | :--- |
-| `01` | **Virtual Piano — KeyFlow Studio** | `Electron` `JS` `MIDI` | Piano virtuel temps réel avec Frappe Magique, Auto-Play `@tonejs/midi`, micro virtuel VB-Cable et Discord RPC. |
-| `02` | [**PowderHelpMe**](https://github.com/Nitrovinzleo/PowderHelpMe) | `Electron` `Node.js` `Chart.js` | Application desktop temps réel de suivi de statistiques League of Legends via l'API Riot Games. |
-| `03` | [**Forum-UX (Studio Edition)**](https://github.com/Nitrovinzleo/Forum-UX) | `HTML` `CSS` `JS` | Plateforme éditoriale conçue selon les normes WCAG AAA & RGAA 4.1.2. |
-| `04` | [**DocTranslate**](https://github.com/Nitrovinzleo/DocTranslate) | `TypeScript` | Pipeline de traduction documentaire typé de bout en bout. |
-| `05` | [**Système de Tournois ELO**](https://github.com/Nitrovinzleo/Systeme-de-Tournois-avec-ELO) | `Python` `Streamlit` | Gestionnaire d'arbres de tournois avec calcul dynamique du classement ELO. |
-
----
-
-### Stack & Compétences IA
-
-- **Web & Back-end** — React.js, Laravel, PHP, Python (FastAPI), JavaScript, TypeScript, HTML/CSS, API REST
-- **Cloud & Data** — AWS Cloud (Lambda, DynamoDB), MySQL, Git, GitHub, Figma, Jira, Confluence
-- **AI-Native Engineering** — Claude Code, mise en place d'agents & skills, Security Guidelines, Gemini / OpenAI, AntiGravity
-- **Architecture & Qualité** — SOLID, Refactoring, Agile / Scrum, RGAA 4.1.2, WCAG AAA
-
----
-
-### Contact
-
-- **Email :** [vhoebler@gmail.com](mailto:vhoebler@gmail.com)
-- **LinkedIn :** Vincent HOEBLER
-
----
-
 ### Activité
 
 <p align="center">
