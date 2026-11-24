@@ -6,7 +6,7 @@
 
 ### À propos
 
-Étudiant en 3e année de **Bachelor Ingénierie et Numérique** à l'**EFREI Paris** (mobilité internationale à Toronto — Anglais **C1**), je recherche une **alternance d'un an en développement web fullstack** dès que possible *(rythme : 1 sem / 2 puis 2 sem / 3, 100 % entreprise à partir d'avril)*.
+Étudiant en 3e année de **Bachelor Ingénierie et Numérique** à l'**EFREI Paris** (mobilité internationale à Toronto — Anglais **C1**) et **développeur Fullstack en alternance chez France SCPI**.
 
 Après deux expériences chez **M6 Groupe** (API REST FastAPI, fonctions AWS Lambda, mise aux normes accessibilité RGAA), je développe au quotidien avec des workflows **AI-native** (*Claude Code*, agents, skills et règles de sécurité).
 
@@ -14,6 +14,8 @@ Après deux expériences chez **M6 Groupe** (API REST FastAPI, fonctions AWS Lam
 
 ### Expériences professionnelles
 
+- **Développeur Fullstack (Alternance) — France SCPI** *(En cours)*
+  Développement web fullstack (**Laravel / Blade / PHP / JavaScript**), conception d'interfaces et évolution de la plateforme produit.
 - **Stage Développeur Backend — M6 Groupe** *(2026)*
   Développement d'API REST en **Python (FastAPI)**, création de fonctions **AWS Lambda** (Python / JavaScript) pour la gestion des avatars de l'application **Gulli**, intégration Front/Back et services **AWS Cloud** (Lambda, DynamoDB).
 - **Stage Accessibilité Web — M6 Groupe** *(2025 — 2 mois)*

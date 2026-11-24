@@ -25,12 +25,9 @@
   <path d="M 1 18 Q 1 1 18 1 H 1182 Q 1199 1 1199 18 V 68 H 1 Z" fill="#FFFDFD"/>
   <line x1="1" y1="68" x2="1199" y2="68" stroke="#120B10" stroke-opacity="0.12" stroke-width="1"/>
 
-  <!-- Wordmark Left -->
-  <text x="44" y="43" fill="#120B10" font-family="'Bricolage Grotesque', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="800" letter-spacing="-0.8">
-    VINCENT HOEBLER
-  </text>
-  <text x="252" y="42" fill="#9D174D" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, monospace" font-size="11.5" font-weight="700" letter-spacing="0.6">
-    / NITROVINZLEO · PARIS
+  <!-- Wordmark Left (single text + tspan so it can never overlap) -->
+  <text x="44" y="43" fill="#120B10" font-family="'Bricolage Grotesque', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="800" letter-spacing="-0.6">
+    VINCENT HOEBLER<tspan dx="16" fill="#9D174D" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, monospace" font-size="11.5" font-weight="700" letter-spacing="0.6">/ NITROVINZLEO · PARIS</tspan>
   </text>
 
   <!-- Asymmetric Editorial Headline Row -->
@@ -43,10 +40,10 @@
 
   <!-- Right Editorial Sub-Deck -->
   <text x="734" y="142" fill="#52434C" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="15.5" font-weight="500">
-    EFREI Paris B3 · 2 expériences chez M6 Groupe (Gulli, Tiji).
+    Fullstack chez France SCPI · Ex-M6 Groupe · EFREI Paris B3.
   </text>
   <text x="734" y="166" fill="#52434C" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="15.5" font-weight="500">
-    FastAPI, React, Laravel, AWS Lambda, RGAA &amp; outils IA.
+    Laravel, React, FastAPI, AWS Lambda, RGAA &amp; outils IA.
   </text>
 
   <!-- ===================================================================== -->
@@ -89,8 +86,8 @@
       KEYFLOW STUDIO  ·  VIRTUAL PIANO
     </text>
 
-    <text x="68" y="504" fill="#120B10" font-family="'Bricolage Grotesque', 'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="800" letter-spacing="-0.5">
-      Virtual Piano — Frappe Magique, Auto-Play &amp; Micro Virtuel
+    <text x="68" y="504" fill="#120B10" font-family="'Bricolage Grotesque', 'Plus Jakarta Sans', sans-serif" font-size="20.5" font-weight="800" letter-spacing="-0.4">
+      Virtual Piano — Frappe Magique &amp; Auto-Play MIDI
     </text>
     <text x="68" y="532" fill="#52434C" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="500">
       Application desktop Electron + Tone.js MIDI avec synthèse réaliste, routage VB-Cable,
@@ -115,12 +112,12 @@
     </text>
 
     <!-- Gold Pill + Mono Meta -->
-    <rect x="758" y="402" width="108" height="24" rx="6" fill="#FDE047"/>
-    <text x="812" y="418" text-anchor="middle" fill="#5C3409" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="800">
-      Alternance 1 an
+    <rect x="758" y="402" width="98" height="24" rx="6" fill="#FDE047"/>
+    <text x="807" y="418" text-anchor="middle" fill="#5C3409" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="800">
+      France SCPI
     </text>
-    <text x="878" y="418" fill="#D9C8D0" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="11" font-weight="600" letter-spacing="0.4">
-      DISPONIBLE
+    <text x="868" y="418" fill="#D9C8D0" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="11" font-weight="600" letter-spacing="0.4">
+      FULLSTACK  ·  EFREI B3
     </text>
 
     <!-- Crisp White Editorial Headline -->
