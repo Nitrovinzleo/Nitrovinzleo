@@ -48,7 +48,6 @@ Après deux expériences chez **M6 Groupe** (API REST FastAPI, fonctions AWS Lam
 
 - **Email :** [vhoebler@gmail.com](mailto:vhoebler@gmail.com)
 - **LinkedIn :** Vincent HOEBLER
-- **Localisation :** Bourg-la-Reine (Île-de-France)
 
 ---
 
