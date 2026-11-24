@@ -7,7 +7,7 @@
 ### Sélection de projets
 
 | :--- | :--- | :--- | :--- |
-| `01` | [**FL Studio Live Collaboration**](https://github.com/Nitrovinzleo/-FL-Studio--Plugin-2-collaboration-live-) | `C++` | Plugin temps réel permettant à deux musiciens de composer ensemble en direct. |
+| `01` | **Virtual Piano — KeyFlow Studio** | `Electron` `JS` `MIDI` | Piano virtuel temps réel avec Frappe Magique, Auto-Play `@tonejs/midi`, micro virtuel VB-Cable et Discord RPC. |
 | `02` | [**Forum-UX (Studio Edition)**](https://github.com/Nitrovinzleo/Forum-UX) | `HTML` `CSS` `JS` | Plateforme éditoriale conçue selon les normes WCAG AAA & RGAA 4.1.2. |
 | `03` | [**DocTranslate**](https://github.com/Nitrovinzleo/DocTranslate) | `TypeScript` | Pipeline de traduction documentaire typé de bout en bout. |
 | `04` | [**Système de Tournois ELO**](https://github.com/Nitrovinzleo/Systeme-de-Tournois-avec-ELO) | `Python` `Streamlit` | Gestionnaire d'arbres de tournois avec calcul dynamique du classement ELO. |
