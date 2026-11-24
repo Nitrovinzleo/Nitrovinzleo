@@ -6,7 +6,6 @@
 
 ### Sélection de projets
 
-| No. | Projet | Stack | Description |
 | :--- | :--- | :--- | :--- |
 | `01` | [**FL Studio Live Collaboration**](https://github.com/Nitrovinzleo/-FL-Studio--Plugin-2-collaboration-live-) | `C++` | Plugin temps réel permettant à deux musiciens de composer ensemble en direct. |
 | `02` | [**Forum-UX (Studio Edition)**](https://github.com/Nitrovinzleo/Forum-UX) | `HTML` `CSS` `JS` | Plateforme éditoriale conçue selon les normes WCAG AAA & RGAA 4.1.2. |
