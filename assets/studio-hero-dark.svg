@@ -1,0 +1,81 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nitrovinzleo — Studio Editorial Profile (Dark)">
+  <!-- Outer obsidian stage frame -->
+  <rect width="1200" height="340" rx="14" fill="#140810"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="13.25" stroke="#FBF7F8" stroke-opacity="0.14" stroke-width="1.5"/>
+
+  <!-- Top utility strip -->
+  <path d="M 1 14 Q 1 1 14 1 H 1186 Q 1199 1 1199 14 V 46 H 1 Z" fill="#23111C"/>
+  <line x1="1" y1="46" x2="1199" y2="46" stroke="#FBF7F8" stroke-opacity="0.12"/>
+  <rect x="40" y="13" width="84" height="22" rx="4" fill="#D81B60"/>
+  <text x="82" y="28" text-anchor="middle" fill="#FBF7F8" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, monospace" font-size="11" font-weight="700" letter-spacing="0.6">
+    STUDIO
+  </text>
+  <text x="140" y="28" fill="#D9C8D0" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, monospace" font-size="12" font-weight="500" letter-spacing="0.4">
+    ISSUE 2026  ·  EFREI PARIS  ·  GITHUB DEVELOPER PROGRAM
+  </text>
+  <rect x="1032" y="12" width="128" height="24" rx="6" fill="#140810" stroke="#D81B60" stroke-width="1"/>
+  <text x="1096" y="28" text-anchor="middle" fill="#FBF7F8" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="11" font-weight="700">
+    PORTFOLIO
+  </text>
+
+  <!-- Editorial Masthead Row -->
+  <line x1="40" y1="96" x2="1160" y2="96" stroke="#FBF7F8" stroke-opacity="0.14" stroke-width="1"/>
+  <text x="40" y="80" fill="#FBF7F8" font-family="'Bricolage Grotesque', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="800" letter-spacing="-0.8">
+    NITROVINZLEO
+  </text>
+  <text x="218" y="80" fill="#FDE047" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="12" font-weight="700">
+    NO. 01
+  </text>
+  <text x="1160" y="80" text-anchor="end" fill="#D9C8D0" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="12" font-weight="500">
+    PARIS, FR  /  SOFTWARE &amp; UX
+  </text>
+
+  <!-- Asymmetric Hero Content -->
+  <text x="40" y="158" fill="#FBF7F8" font-family="'Bricolage Grotesque', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Plus Jakarta Sans', sans-serif" font-size="48" font-weight="800" letter-spacing="-1.4">
+    Engineering with
+  </text>
+  <text x="40" y="212" fill="#FDE047" font-family="'Bricolage Grotesque', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Plus Jakarta Sans', sans-serif" font-size="48" font-weight="800" letter-spacing="-1.4">
+    editorial restraint.
+  </text>
+
+  <text x="40" y="254" fill="#D9C8D0" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="16.5" font-weight="500">
+    Full-stack web systems, WCAG AAA interfaces, real-time C++ audio tools, and API automation.
+  </text>
+
+  <!-- Clean studio chips -->
+  <g transform="translate(40, 280)" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="11.5" font-weight="600">
+    <rect x="0" y="0" width="96" height="30" rx="6" fill="#23111C" stroke="#FBF7F8" stroke-opacity="0.16"/>
+    <text x="48" y="19" text-anchor="middle" fill="#FBF7F8">TypeScript</text>
+
+    <rect x="106" y="0" width="74" height="30" rx="6" fill="#23111C" stroke="#FBF7F8" stroke-opacity="0.16"/>
+    <text x="143" y="19" text-anchor="middle" fill="#FBF7F8">Python</text>
+
+    <rect x="190" y="0" width="54" height="30" rx="6" fill="#23111C" stroke="#FBF7F8" stroke-opacity="0.16"/>
+    <text x="217" y="19" text-anchor="middle" fill="#FBF7F8">C++</text>
+
+    <rect x="254" y="0" width="62" height="30" rx="6" fill="#23111C" stroke="#FBF7F8" stroke-opacity="0.16"/>
+    <text x="285" y="19" text-anchor="middle" fill="#FBF7F8">Java</text>
+
+    <rect x="326" y="0" width="114" height="30" rx="6" fill="#9D174D"/>
+    <text x="383" y="19" text-anchor="middle" fill="#FBF7F8">RGAA / HIG</text>
+  </g>
+
+  <!-- Right Column: Editorial Index Card -->
+  <rect x="850" y="122" width="310" height="188" rx="12" fill="#23111C" stroke="#FBF7F8" stroke-opacity="0.14" stroke-width="1"/>
+  <text x="876" y="152" fill="#FDE047" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="11" font-weight="700" letter-spacing="1.2">
+    PROFILE INDEX
+  </text>
+  <line x1="876" y1="166" x2="1134" y2="166" stroke="#FBF7F8" stroke-opacity="0.12"/>
+
+  <text x="876" y="194" fill="#D9C8D0" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="600">School</text>
+  <text x="1134" y="194" text-anchor="end" fill="#FBF7F8" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600">EFREI Paris</text>
+
+  <text x="876" y="228" fill="#D9C8D0" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="600">Standard</text>
+  <text x="1134" y="228" text-anchor="end" fill="#FBF7F8" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600">WCAG AAA / HIG</text>
+
+  <text x="876" y="262" fill="#D9C8D0" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="600">Status</text>
+  <rect x="1050" y="246" width="84" height="22" rx="4" fill="#D81B60"/>
+  <text x="1092" y="261" text-anchor="middle" fill="#FBF7F8" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">BUILDING</text>
+
+  <text x="876" y="294" fill="#D9C8D0" font-family="'JetBrains Mono', monospace" font-size="11">github.com/Nitrovinzleo</text>
+</svg>
