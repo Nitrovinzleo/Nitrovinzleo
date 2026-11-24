@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Vincent Hoebler (Nitrovinzleo) — Software Engineer Fullstack" src="./assets/studio-editorial.svg" width="100%" />
+  <img alt="Vincent Hoebler (Nitrovinzleo) — Software Engineer Fullstack" src="./assets/studio-profile.svg" width="100%" />
 </p>
 
 <br />
