@@ -1,0 +1,160 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nitrovinzleo — Paris Edition Editorial Profile">
+  <defs>
+    <linearGradient id="rubyCover" x1="0" y1="0" x2="420" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#881337"/>
+      <stop offset="55%" stop-color="#9D174D"/>
+      <stop offset="100%" stop-color="#140810"/>
+    </linearGradient>
+    <linearGradient id="audioStage" x1="0" y1="0" x2="640" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1A1520"/>
+      <stop offset="100%" stop-color="#281D2B"/>
+    </linearGradient>
+    <clipPath id="leftCardClip">
+      <rect x="44" y="238" width="664" height="338" rx="16"/>
+    </clipPath>
+    <clipPath id="rightCardClip">
+      <rect x="734" y="238" width="422" height="338" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <!-- Warm Paper Editorial Canvas (#FAF7F6) -->
+  <rect width="1200" height="620" rx="18" fill="#FAF7F6"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="618.5" rx="17.25" stroke="#120B10" stroke-opacity="0.12" stroke-width="1.5"/>
+
+  <!-- Top Masthead Header (exact studio.css header) -->
+  <path d="M 1 18 Q 1 1 18 1 H 1182 Q 1199 1 1199 18 V 68 H 1 Z" fill="#FFFDFD"/>
+  <line x1="1" y1="68" x2="1199" y2="68" stroke="#120B10" stroke-opacity="0.12" stroke-width="1"/>
+
+  <!-- Wordmark Left -->
+  <text x="44" y="43" fill="#120B10" font-family="'Bricolage Grotesque', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="800" letter-spacing="-0.8">
+    NITROVINZLEO
+  </text>
+  <text x="214" y="42" fill="#9D174D" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, monospace" font-size="11.5" font-weight="700" letter-spacing="0.6">
+    / PARIS EDITION
+  </text>
+
+  <!-- Nav Right + Solid Obsidian CTA Button -->
+  <g font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="13.5" font-weight="600" fill="#120B10">
+    <text x="772" y="42">Projets</text>
+    <text x="844" y="42">Stack</text>
+    <text x="908" y="42">UX / RGAA</text>
+    <text x="1002" y="42">Activité</text>
+  </g>
+  <rect x="1072" y="18" width="84" height="34" rx="8" fill="#140810"/>
+  <text x="1114" y="40" text-anchor="middle" fill="#FBF7F8" font-family="'Plus Jakarta Sans', -apple-system, sans-serif" font-size="13" font-weight="700">
+    EFREI
+  </text>
+
+  <!-- Asymmetric Editorial Headline Row -->
+  <text x="44" y="138" fill="#120B10" font-family="'Bricolage Grotesque', -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="44" font-weight="800" letter-spacing="-1.3">
+    Code, UX &amp; systèmes,
+  </text>
+  <text x="44" y="190" fill="#120B10" font-family="'Bricolage Grotesque', -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="44" font-weight="800" letter-spacing="-1.3">
+    pensés pour durer.
+  </text>
+
+  <!-- Right Editorial Sub-Deck -->
+  <text x="734" y="142" fill="#52434C" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="15.5" font-weight="500">
+    Applications full-stack, plugins audio C++ en temps réel
+  </text>
+  <text x="734" y="166" fill="#52434C" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="15.5" font-weight="500">
+    et interfaces éditoriales accessibles WCAG AAA / RGAA.
+  </text>
+
+  <!-- ===================================================================== -->
+  <!-- LEFT CARD (60% — Crisp White #FFFDFD, Soft Rose Pill #FCE7EE)         -->
+  <!-- ===================================================================== -->
+  <rect x="44" y="238" width="664" height="338" rx="16" fill="#FFFDFD" stroke="#120B10" stroke-opacity="0.10" stroke-width="1"/>
+  <g clip-path="url(#leftCardClip)">
+    <!-- Top Visual Preview Area -->
+    <rect x="44" y="238" width="664" height="196" fill="url(#audioStage)"/>
+
+    <!-- Minimalist audio waveform bars (subtle, editorial) -->
+    <g fill="#FBF7F8" opacity="0.16">
+      <rect x="108" y="316" width="6" height="40" rx="3"/>
+      <rect x="124" y="294" width="6" height="84" rx="3"/>
+      <rect x="140" y="308" width="6" height="56" rx="3"/>
+      <rect x="156" y="280" width="6" height="112" rx="3"/>
+      <rect x="172" y="302" width="6" height="68" rx="3"/>
+      <rect x="188" y="320" width="6" height="32" rx="3"/>
+      <rect x="204" y="292" width="6" height="88" rx="3"/>
+      <rect x="220" y="310" width="6" height="52" rx="3"/>
+
+      <rect x="520" y="310" width="6" height="52" rx="3"/>
+      <rect x="536" y="290" width="6" height="92" rx="3"/>
+      <rect x="552" y="318" width="6" height="36" rx="3"/>
+      <rect x="568" y="284" width="6" height="104" rx="3"/>
+      <rect x="584" y="304" width="6" height="64" rx="3"/>
+      <rect x="600" y="296" width="6" height="80" rx="3"/>
+      <rect x="616" y="316" width="6" height="40" rx="3"/>
+      <rect x="632" y="324" width="6" height="24" rx="3"/>
+    </g>
+
+    <!-- Center Rose Circle + Obsidian Pill (matching Image 2 play button rhythm) -->
+    <circle cx="376" cy="322" r="28" fill="#D81B60"/>
+    <polygon points="370,311 370,333 389,322" fill="#FFFFFF"/>
+    <rect x="306" y="362" width="140" height="26" rx="13" fill="#140810"/>
+    <text x="376" y="379" text-anchor="middle" fill="#FBF7F8" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="700">
+      FL Studio · Live C++
+    </text>
+
+    <!-- Bottom White Editorial Text Area -->
+    <rect x="68" y="452" width="124" height="24" rx="6" fill="#FCE7EE"/>
+    <text x="130" y="468" text-anchor="middle" fill="#9D174D" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="700">
+      C++ &amp; Full-Stack
+    </text>
+    <text x="206" y="468" fill="#52434C" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="11" font-weight="600" letter-spacing="0.4">
+      PROJET PHARE  ·  TEMPS RÉEL
+    </text>
+
+    <text x="68" y="504" fill="#120B10" font-family="'Bricolage Grotesque', 'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="800" letter-spacing="-0.5">
+      Plugin de collaboration live FL Studio &amp; outils web
+    </text>
+    <text x="68" y="532" fill="#52434C" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="500">
+      Composition musicale synchronisée en C++, traduction automatisée en TypeScript
+    </text>
+    <text x="68" y="554" fill="#52434C" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="500">
+      (DocTranslate) et plateforme éditoriale RGAA / WCAG AAA (Forum-UX).
+    </text>
+  </g>
+
+  <!-- ===================================================================== -->
+  <!-- RIGHT CARD (40% — Deep Obsidian #140810, Gold Pill #FDE047)           -->
+  <!-- ===================================================================== -->
+  <rect x="734" y="238" width="422" height="338" rx="16" fill="#140810"/>
+  <g clip-path="url(#rightCardClip)">
+    <!-- Top Ruby Editorial Cover Band -->
+    <rect x="734" y="238" width="422" height="148" fill="url(#rubyCover)"/>
+    <text x="758" y="366" fill="#FBF7F8" fill-opacity="0.92" font-family="'Bricolage Grotesque', Georgia, serif" font-size="44" font-weight="800" letter-spacing="2">
+      STUDIO
+    </text>
+    <text x="760" y="274" fill="#FDE047" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="11" font-weight="700" letter-spacing="1.4">
+      GITHUB DEVELOPER PROGRAM
+    </text>
+
+    <!-- Gold Pill + Mono Meta (exact "Débat chaud" style from Image 2) -->
+    <rect x="758" y="402" width="94" height="24" rx="6" fill="#FDE047"/>
+    <text x="805" y="418" text-anchor="middle" fill="#5C3409" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="800">
+      En cours
+    </text>
+    <text x="864" y="418" fill="#D9C8D0" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="11" font-weight="600" letter-spacing="0.4">
+      EFREI PARIS  ·  B3
+    </text>
+
+    <!-- Crisp White Editorial Headline -->
+    <text x="758" y="458" fill="#FBF7F8" font-family="'Bricolage Grotesque', 'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="800" letter-spacing="-0.4">
+      TypeScript, Python, C++
+    </text>
+    <text x="758" y="486" fill="#FBF7F8" font-family="'Bricolage Grotesque', 'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="800" letter-spacing="-0.4">
+      &amp; automatisation API.
+    </text>
+
+    <!-- Muted Rose-Pearl Body -->
+    <text x="758" y="522" fill="#D9C8D0" font-family="'Plus Jakarta Sans', sans-serif" font-size="13.5" font-weight="400">
+      Architecture propre, accessibilité stricte et
+    </text>
+    <text x="758" y="544" fill="#D9C8D0" font-family="'Plus Jakarta Sans', sans-serif" font-size="13.5" font-weight="400">
+      workflows GitHub REST &amp; GraphQL sur mesure.
+    </text>
+  </g>
+</svg>
